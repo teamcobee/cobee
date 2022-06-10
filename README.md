@@ -8,5 +8,3 @@ https://teamcobee.atlassian.net/wiki/spaces/TEAMCOBEE/pages/622868
         
           
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
-
-    
