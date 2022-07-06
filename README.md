@@ -1,5 +1,5 @@
 # cobee
-![header](https://capsule-render.vercel.app/api?type=waving&color=orange&height=300&section=header&text=SONSU%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#FF8000&height=300&section=header&text=SONSU%20&fontSize=90)
 
 https://teamcobee.atlassian.net/wiki/spaces/TEAMCOBEE/pages/1179656/2022+04+11
 https://teamcobee.atlassian.net/wiki/spaces/TEAMCOBEE/pages/622868
