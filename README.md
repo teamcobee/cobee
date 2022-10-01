@@ -9,9 +9,7 @@
 #### 🌟Jang Ji Hyeon (<a href="https://github.com/jihyeonjjang">@jihyeonjjang</a>) | Android, Deep Learning
 #### 🌟Choi Jeong Yoon (<a href="https://github.com/jeong-yooon">@jeong-yooon</a>) | Frontend, Data Set
 
-
 ---
-
 
 ### 🏃‍♂️
 https://teamcobee.atlassian.net/wiki/spaces/TEAMCOBEE/pages/1179656/2022+04+11
